@@ -111,9 +111,7 @@ Building a modern, content-focused blog platform with advanced features and opti
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrFadel10&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrFadel10&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
