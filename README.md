@@ -1,6 +1,6 @@
 # Amr Fadel
 
-**Full Stack Developer** | **React Specialist** | **2+ Years of Hands-on Experience**
+**Full Stack Developer**
 
 *Passionate about crafting exceptional user experiences through clean code, optimal performance, and intuitive design.*
 
