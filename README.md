@@ -141,9 +141,7 @@ I'm always excited to discuss frontend development, share knowledge, or explore 
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmrFadel10&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+
 
 <div align="center">
   <i>💡 "Transforming ideas into exceptional user experiences, one component at a time" 💡</i>
