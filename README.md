@@ -1,6 +1,6 @@
 # Amr Fadel
 
-**Frontend Developer** | **React Specialist** | **2+ Years of Hands-on Experience**
+**Full Stack Developer** | **React Specialist** | **2+ Years of Hands-on Experience**
 
 *Passionate about crafting exceptional user experiences through clean code, optimal performance, and intuitive design.*
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a dedicated Frontend Developer with over 2 years of intensive experience building modern web applications with React. My journey has been focused on mastering the art of creating seamless, performant user interfaces while continuously expanding my technical expertise through practical project development.
+I'm a dedicated Full Stack Developer with over 2 years of intensive experience building modern web applications with React. My journey has been focused on mastering the art of creating seamless, performant user interfaces while continuously expanding my technical expertise through practical project development.
 
 ### 🎯 **Current Focus**
 - Deepening expertise in React ecosystem and advanced patterns
@@ -29,7 +29,7 @@ I'm a dedicated Frontend Developer with over 2 years of intensive experience bui
 
 ## 🛠️ Technical Expertise
 
-### **Frontend Mastery**
+### **Full Stack Mastery**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,7 +53,7 @@ I'm a dedicated Frontend Developer with over 2 years of intensive experience bui
 
 ## 🚀 Featured Projects
 
-### 🛍️ **MegaStore** - E-commerce Frontend
+### 🛍️ **MegaStore** - E-commerce Full Stack
 **[Live Demo](https://medastore.vercel.app)** • **Full Stack**
 
 A performance-optimized e-commerce platform showcasing advanced React patterns and modern web development practices.
@@ -129,7 +129,7 @@ I'm actively seeking opportunities to:
 
 ## 🤝 Let's Connect
 
-I'm always excited to discuss frontend development, share knowledge, or explore potential collaborations.
+I'm always excited to discuss web development, share knowledge, or explore potential collaborations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrfadel/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://amr-fadel.vercel.app/)
