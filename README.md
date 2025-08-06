@@ -54,7 +54,7 @@ I'm a dedicated Frontend Developer with over 2 years of intensive experience bui
 ## 🚀 Featured Projects
 
 ### 🛍️ **MegaStore** - E-commerce Frontend
-**[Live Demo](https://medastore.vercel.app)** • **Frontend Focus**
+**[Live Demo](https://medastore.vercel.app)** • **Full Stack**
 
 A performance-optimized e-commerce platform showcasing advanced React patterns and modern web development practices.
 
