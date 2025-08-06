@@ -42,8 +42,6 @@ I'm a dedicated Frontend Developer with over 2 years of intensive experience bui
 
 ### **State Management & Data**
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
 
 ### **Full Stack Experience**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
