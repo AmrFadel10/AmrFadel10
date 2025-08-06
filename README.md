@@ -18,8 +18,7 @@
 
 ### 🚀 Featured Projects
 
-
-#### 🛍️ [MegaStore – E-commerce [FullStack](https://medastore.vercel.app)
+#### 🛍️ [MegaStore – E-commerce Frontend](https://medastore.vercel.app)
 An optimized e-commerce frontend built with React and Tailwind CSS. Focused on performance and UX.
 
 #### 🏨 [XHotel – Hotel Reservation App](https://xhotel.vercel.app)
